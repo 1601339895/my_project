@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="chujielie@10.11.68.26:50000 password" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="aiswjtu@202.115.73.14:8848 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/aiswjtu/hl" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="aiswjtu@202.115.73.200:53310 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/aiswjtu/hl" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="aiswjtu@202.115.73.200:53313 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/aiswjtu/hl" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="chujielie@10.11.68.26:50000 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chujielie/hl/image_restoration" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
